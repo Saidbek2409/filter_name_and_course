@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let arr = [
     {
         id: Math.random(),
@@ -126,5 +127,3 @@ for (let item of arr) {
 }
 
 console.log(categories);
-
-
