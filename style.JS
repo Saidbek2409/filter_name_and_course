@@ -127,3 +127,5 @@ for (let item of arr) {
 }
 
 console.log(categories);
+
+// Made by Saidbek
